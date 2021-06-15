@@ -30,8 +30,8 @@ address:
   country: 한국
   country_code: KR
 coordinates:
-  latitude: '126.93550030180758'
-  longitude: '37.56272820187706' 
+  latitude: '37.56271674657318' , 
+  longitude: '126.93551125604138' 
 directions: 스포츠과학관 212호
 office_hours:
   - 'Monday 10:00 to 13:00'
