@@ -7,6 +7,6 @@ image:
 summary: An example of linking directly to an external project website using `부상감시설문지.`.
 tags:
 - Demo
-title: 부상감시설문지
+title: 부상감시설문지 
 ---
 
